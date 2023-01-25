@@ -1,4 +1,4 @@
-# Lab 02
+# Lab 01
 
 ## 1 Review and Purpose:
 
@@ -18,13 +18,13 @@ Learning and practicing using the VIM text editor:
 
 ## 2 Start Here:
 
-Create a file using VIM named `<username>_lab02.txt` and go ahead and put the output of the `hostname` and `whoami` command on the first and second lines and write the file.
+Create a file using VIM named `<username>_lab01.txt` and go ahead and put the output of the `hostname` and `whoami` command on the first and second lines and write the file.
 
 **_Keep this file open in vim!_**
 
 ## 3 Test:
 
-Answer the following questions in your `<username>_lab02.txt` file:
+Answer the following questions in your `<username>_lab01.txt` file:
 
 1. What command would you use to print the **_entire_** contents of a file to the **_terminal_**?
 
@@ -48,4 +48,4 @@ Answer the following questions in your `<username>_lab02.txt` file:
 
 ## 5 Submission:
 
-Please save your lab file with the name `<username>_lab02.txt` and submit it to [Drobobox](https://dropbox.cse.sc.edu) under **_Lab 02_**.
+Please save your lab file with the name `<username>_lab01.txt` and submit it to [Drobobox](https://dropbox.cse.sc.edu) under **_Lab 01_**.
